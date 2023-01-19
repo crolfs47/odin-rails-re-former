@@ -1,24 +1,23 @@
-# README
+# odin-rails-re-former
+## The Odin Project - Forms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project: Bare Metal Forms and Helpers
 
-Things you may want to cover:
+Build a form the old fashioned way and then the Rails way.
 
-* Ruby version
+## Languages/Technologies used:
+ - Rails 
+ - Ruby
+ - SQLite3
+ - VS Code
+ - Git/Github
 
-* System dependencies
+## What I learned:
+ - Forms
+ 
+## Still can improve:
+ - 
 
-* Configuration
+Assignment - https://www.theodinproject.com/lessons/ruby-on-rails-forms
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+View Project  - TBD
