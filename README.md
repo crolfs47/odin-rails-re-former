@@ -13,7 +13,8 @@ Build a form the old fashioned way and then the Rails way.
  - Git/Github
 
 ## What I learned:
- - Forms
+ - Forms, #form_with
+ - Displaying error messages when validations fail
  
 ## Still can improve:
  - 
